@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/EDJotNeUmrBJ3rzrQZSEk2.git",
+    "expiration": "2026-09-24T06:15:09.107Z",
+    "token": "art_v2_x_8f554c96d347e48ddedc86f303ae3d99c65d209d?expires=1790230509",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "lumena-aesthetic-clinic",
+  "path": "/home/ubuntu/lumena-aesthetic-clinic",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "5hLK8v9obgHhq9neUrvgGV",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "AchavTsC9ANqdjkdg4KPuE",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Wajih Ur rasool",
+    "OWNER_OPEN_ID": "ckB9cVuYAb6p942Mjw8Z3v",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "e2a71bde-08b6-48c9-9e2e-4789655407f5",
+    "VITE_APP_ID": "EDJotNeUmrBJ3rzrQZSEk2",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Lumena Aesthetic Clinic",
+    "VITE_FRONTEND_FORGE_API_KEY": "8o6AFn7NJAkjDeSzNFJLgu",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
